@@ -9,3 +9,7 @@ Project 2 : Slot machine: <br>
 -, fun project when having to handle some edge cases dealing with array. <br>
 -, i mainly practice basic git commands with this one. <br>
 
+Project 3 : Turtles race: <br> 			
+-, a small medium project. <br>
+-, i need to level up the difficulty in these projects. <br>
+-, i keep getting into trouble when trying to push! <br>
