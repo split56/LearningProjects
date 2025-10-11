@@ -20,3 +20,9 @@ Project 4 : WPM: <br>
 
 Project 5 : Shortest Path Finder: <br> 			
 -, an implementation of BFS. <br>
+
+Project 6 : Mastermind: <br> 			
+-, an implementation of a fun game. <br>
+
+Project 7 : Aimlab <br>
+-, a slightly difficult implementation of aimlab with pygame. <br>
