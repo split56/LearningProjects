@@ -19,7 +19,7 @@ def guess_code():
         guess = input("Guess: ").upper().split(" ")
 
         if len(guess) != CODE_LENGTH:
-            print(f"You must guess {CODE_LENGTH} couors")
+            print(f"You must guess {CODE_LENGTH} colors")
             continue
         
         for color in guess:
